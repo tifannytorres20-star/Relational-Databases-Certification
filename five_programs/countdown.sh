@@ -1,5 +1,5 @@
 #!/bin/bash
-# Program that counts down to zero from a given argument
+# cuenta regresiva
 
 if [[ $1 -gt 0 ]]
 then
